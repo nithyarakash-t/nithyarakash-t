@@ -8,14 +8,15 @@ Most of my projects in gitHub are POC's for personal learning. Data Structures, 
 
 # 🔭 Currently working on
 - A Portfolio website with React.js, gSap
-- A video streaming service with React.js, Express.js and FFMPEG deployed on Google Cloud.
+- A video streaming service with Next.js, Express.js and FFMPEG deployed on Google Cloud.
+- Few utlity projects
 
 # 🌱 Currently learning
 - DSA, will probably never leave this list :)
 - Redux toolkit
 - Next.js
-- FFmpeg
 - Google Cloud services
+- Redis and Memcache
 
 <!--
 **Nithyarakash-t/Nithyarakash-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
