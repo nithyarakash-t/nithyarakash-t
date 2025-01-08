@@ -7,9 +7,11 @@ A FullStack dev specializing in Frontend development and web accessibility.
 Most of my projects in gitHub are POC's for personal learning. Data Structures, Algorithms, Javascript, CSS, Frameworks, Backend, Certification related projects... the list goes on.
 
 # ⚡Checkout personal projects
-- urlifysvg - https://urlifysvg.vercel.app - Utility project to convert any SVG to encodedUrl meant to be used in CSS - React.js
 - Portfolio - https://www.nithyaprakash.com - React.js
-- Gift Acceptance - https://giftacceptance.vercel.app - A personal project to practice RxJS and NgRx
+- Gift Acceptance - https://giftacceptance.vercel.app - A personal project to practice RxJS and NgRx in Angular
+- Frontend Developer Toolkit - Handy tools for developers
+    - urlifysvg - https://urlifysvg.vercel.app - Utility project to convert any SVG to encodedUrl meant to be used in CSS - React.js
+    - Palette town - A site all about colours
 
 # 🔭 Currently working on
 - A Portfolio website with React.js, gSap
