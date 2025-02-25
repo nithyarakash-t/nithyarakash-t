@@ -11,7 +11,7 @@ Most of my projects in gitHub are POC's for personal learning. Data Structures, 
 - Gift Acceptance - https://giftacceptance.vercel.app - A personal project to practice RxJS and NgRx in Angular
 - Frontend Developer Toolkit - Handy tools for developers
     - urlifysvg - https://urlifysvg.vercel.app - Utility project to convert any SVG to encodedUrl meant to be used in CSS - React.js
-    - Palette town - https://urlifysvg.vercel.app - A site all about colours - themes, palettes, colour mixing, contrast, named colours and more
+    - Palette town - https://palettetown.vercel.app - A site all about colours - themes, palettes, colour mixing, contrast, named colours and more
     - Additionally, I have plans for 2 more sites with 5-6 more tools, which are in works 
 - mini games toolkit - Yet to be published
 
