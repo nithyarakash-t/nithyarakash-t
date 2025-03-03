@@ -12,7 +12,8 @@ Most of my projects in gitHub are POC's for personal learning. Data Structures, 
 - Frontend Developer Toolkit - Handy tools for developers
     - urlifysvg - https://urlifysvg.vercel.app - Utility project to convert any SVG to encodedUrl meant to be used in CSS - React.js
     - Palette town - https://palettetown.vercel.app - A site all about colours - themes, palettes, colour mixing, contrast, named colours and more
-    - Additionally, I have plans for 2 more sites with 5-6 more tools, which are in works 
+    - Funzone - https://funcenter.vercel.app - A site with mini games and fun filled components - with provisions to store history for games
+    - Additionally, I have plans for 2 more sites with 5-6 more designer-developer focused tools, which are in works 
 - mini games toolkit - Yet to be published
 
 # 🔭 Currently working on
