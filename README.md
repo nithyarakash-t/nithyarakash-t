@@ -23,7 +23,8 @@ Most of my projects in gitHub are POC's for personal learning. Data Structures, 
 
 # 🌱 Currently learning
 - DSA, will probably never leave this list :)
-- Redux toolkit
+- React query, Zustand basics
+- NgRx
 - Next.js
 - Google Cloud services
 - Redis and Memcache
