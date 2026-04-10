@@ -1,7 +1,7 @@
 Hi there 👋
 
 # About me
-A FullStack dev specializing in Frontend development, UI/UX and web accessibility.
+A FullStack dev specializing in Frontend development, UI/UX and web accessibility. Working as an SSE @ Arista Networks on contract from Payoda Technologies.
 
 # About my Github
 Most of my projects in gitHub are POC's for personal learning. Data Structures, Algorithms, Javascript, CSS, Frameworks, Backend, Certification related projects... the list goes on.
@@ -14,7 +14,6 @@ Most of my projects in gitHub are POC's for personal learning. Data Structures, 
     - Funzone (WIP) - https://funcenter.vercel.app - A site with mini games and fun filled components - with provisions to store history for games
     - React UI library - https://reactcdk.vercel.app - A storybook of reusable, WCAG compliant UI components
     - Additionally, I have plans for 2 more sites with 5-6 more designer-developer focused tools, which are in works 
-- mini games toolkit - Yet to be published
 
 # 🔭 Currently working on
 - Portfolio
