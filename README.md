@@ -1,4 +1,4 @@
-Hi there 👋
+Hello there 👋
 
 # About me
 A FullStack dev specializing in Frontend development, UI/UX and web accessibility. Working as an SSE @ Arista Networks on contract from Payoda Technologies.
@@ -11,10 +11,18 @@ Most of my projects in gitHub are POC's for personal learning. Data Structures, 
 - Frontend Developer Toolkit - Handy tools for developers
     - urlifysvg - https://urlifysvg.vercel.app - Utility project to convert any SVG to encodedUrl meant to be used in CSS - React.js
     - Palette town - https://palettetown.vercel.app - A site all about colours - themes, palettes, colour mixing, contrast, named colours and more
-    - Funzone (WIP) - https://funcenter.vercel.app - A site with mini games and fun filled components - with provisions to store history for games
     - React UI library - https://reactcdk.vercel.app - A storybook of reusable, WCAG compliant UI components
-    - Additionally, I have plans for 2 more sites with 5-6 more designer-developer focused tools, which are in works 
+    - Additionally, I have plans for 2 more sites with 5-6 more designer-developer focused tools, which are WIP
+- Funzone (WIP) - https://funcenter.vercel.app - A site with mini games and fun filled components - with provisions to store history for games
 
+ 
+# 📫 Socials and Playgrounds
+- Linkedin - https://www.linkedin.com/in/nithyaprakash-t/
+- Codepen - https://codepen.io/Nithyarakash-t
+- Leetcode - https://leetcode.com/u/Nithyaprakash/
+- CssBattle - https://cssbattle.dev/player/nithyaprakash
+
+<!--
 # 🔭 Currently working on
 - Portfolio
 - Palettetown
@@ -29,6 +37,7 @@ Most of my projects in gitHub are POC's for personal learning. Data Structures, 
 - GraphQl
 - Google Cloud services
 - Golang
+-->
 
 # 👯 Let's collaborate
 - I’m looking to collaborate on open source projects. Reach out to me through nithyaprakash.dev@gmail.com
