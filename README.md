@@ -3,8 +3,10 @@ Hello there 👋
 # About me
 A FullStack dev specializing in Frontend development, UI/UX and web accessibility. Working as an SSE @ Arista Networks on contract from Payoda Technologies.
 
+<!--
 # About my Github
 Most of my projects in gitHub are POC's for personal learning. Data Structures, Algorithms, Javascript, CSS, Frameworks, Backend, Certification related projects... the list goes on.
+-->
 
 # ⚡Checkout personal projects
 - Portfolio - https://www.nithyaprakash.com - React.js
